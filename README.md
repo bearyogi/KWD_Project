@@ -8,3 +8,4 @@ Link do raportu:
 
 https://bearyogi.github.io/projekt_raport.pdf
 
+Autorzy/Authors: Michał Mamla, Dominik Pepaś
