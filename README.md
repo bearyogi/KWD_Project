@@ -1,6 +1,7 @@
 # KWD_Project
 
 Project for Computer Decision Support subject - fifth semester of IT studies.
+
 Projekt na przedmiot Komputerowe Wspomaganie Decyzji - piąty semestr studiów na kierunku informatyka. 
 
 Link do raportu:
